@@ -1,2 +1,2 @@
-# first_repository
-#hellooooooo
+#first_repository
+#Figuring out how this works
