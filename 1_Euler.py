@@ -117,14 +117,3 @@ for x in range(n-50, n):		#cycling through all numbers in range
 		c.append(x),
 print 'Okay done', c[-1]
 
-
-
-
-
-
-
-
-
-
-
-
